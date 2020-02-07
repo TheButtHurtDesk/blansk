@@ -45,15 +45,15 @@ p{
     font-size: 20px;
 }
 .nasa{
-    color: rgb(43, 205, 255);
+    color: rgb(43, 213, 255);
     font-size: 20px;
 }
 
 @keyframes borderAnim
 {
-    33% {border: 3px solid yellow;}
-    66% {border: 3px solid red;}
-    100% {border: 3px solid yellow;}
+    33% {border: 3px solid blue;}
+    66% {border: 3px solid lightblue;}
+    100% {border: 3px solid blue;}
 }
 
 @keyframes textColor
