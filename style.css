@@ -6,7 +6,8 @@
 
 body{
     overflow-x: hidden;
-    background-color: #000000;
+    /* background-color: #000000; */
+    background-image: url("n.png");
 }
 .border{
     transform: translateY(-200px);
