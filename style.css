@@ -49,6 +49,12 @@ p{
     font-size: 20px;
 }
 
+.snasa
+{
+    background-image: url("https://cdn.discordapp.com/attachments/514769882399899649/675302870752428032/0001-0039.gif");
+    background-size: cover;
+}
+
 @keyframes borderAnim
 {
     33% {border: 3px solid blue;}
