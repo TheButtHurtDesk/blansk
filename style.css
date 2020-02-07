@@ -29,15 +29,15 @@ body{
 }
 h4{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: blue;
+    color: rgb(60, 60, 245);
     font-size: 39px;
 }
 p{
-    color: blue;
+    color: rgb(45, 45, 214);
     font-family: 'Teko', sans-serif;
     font-size: 20px;
 }
 .nasa{
-    color: #b0dfe5;
+    color: rgb(155, 155, 255);
     font-size: 20px;
 }
